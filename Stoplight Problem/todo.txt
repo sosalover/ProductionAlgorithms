@@ -1,0 +1,8 @@
+1. Get it working lol
+    a. tree to figure out what next best possible config is.
+2. Increase efficiency
+    a. checking to see if it's done
+    b. using a-b pruning
+3. Implement
+    a. gather data
+    b. make model
